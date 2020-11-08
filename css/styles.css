@@ -1,0 +1,171 @@
+body {
+  background-color: #f1d4d4;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  /*google fonts  https://fonts.google.com/*/
+}
+
+.toparea{
+  background-color: #efbbcf;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  position:relative;
+  line-height: 1.5;
+
+}
+
+h1 {
+  color:#790c5a;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem; /* 100% = 16px = 1em, its dynamic, rem ignore parent size */
+  margin-top: 10%;
+}
+
+h2 {
+  color: #790c5a;
+  font-family: 'Noto Serif', serif;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #6a097d;
+}
+
+p{
+  color: #0f3460;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+}
+
+hr{
+  border-style: none;
+  border-top: 10px dotted #3d7ea6;
+  margin: auto;
+  width: 5%;
+}
+
+.butterfly {
+  position: absolute;
+  right: 30px;
+  width: 20%;
+}
+
+.ivy{
+  position: absolute;
+  top: 20px;
+  left:10px;
+  width: 15%;
+}
+.middle-container{
+  margin: 100px auto 100px auto;
+}
+.profile{
+  margin-bottom: 100px;
+}
+.profilepic{
+  width: 15%;
+  margin-bottom: 30px;
+}
+.profiledescription{
+  width:40%;
+  margin: auto;
+  line-height: 2;
+}
+.description{
+  font-weight: normal;
+}
+.skills{
+  margin: 7% auto 10% auto;
+}
+.skillpic{
+  width:10%;
+  margin-bottom: 20px;
+}
+.skill-row1{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width: 50%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.alive-img{
+  width: 18%;
+  float: left;
+  margin-right: 5%;
+
+}
+.talented-img{
+  width: 20%;
+  float: right;
+  margin-left: 5%;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.bottom-container{
+  background-color: #c3aed6;
+  padding: 50px;
+}
+a{
+  color: #31326f;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: white;
+}
+
+.BUTTON_CGE {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #B83B5E;
+   text-shadow: 1px 1px 20px #B5AEB0;
+   border: solid #D02D44 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top:20px;
+}
+.copyright{
+  color:white;
+  font-family: 'PT Sans', sans-serif;
+  font-size:15px;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+/*
+.rose{
+  position: relative;
+  top: 50px;
+
+}
+
+*/
+/*
+.fstbox{
+  background-color: #6a097d;
+  height: 200px;
+  width: 200px;
+  border:solid 10px;
+  margin-left: 300px;
+}
+.secbox{
+  background-color: #f5a25d;
+  height: 200px;
+  width: 200px;
+}
+*/
